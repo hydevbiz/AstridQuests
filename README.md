@@ -35,7 +35,7 @@ locked:
 
 # Level requirement format
 level-requirement [%level%]:
-  lore: ""
+  lore: []
   requirement_<value>: "quests_<name>.yml"
 ```
 
