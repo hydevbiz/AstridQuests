@@ -32,6 +32,11 @@ locked:
   lore:
     - "%description%"
     - "You can't redeem this yet."
+
+# Level requirement format
+level-requirement [%level%]:
+  lore: "Unlock the next level by completing the required quests."
+  requirement: "quests_<name>.yml"
 ```
 
 ## 🛑 Important
