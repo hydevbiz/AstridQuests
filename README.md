@@ -34,9 +34,15 @@ locked:
     - "You can't redeem this yet."
 
 # Level requirement format
-level-requirement [%level%]:
-  lore: []
-  requirement_<value>: "quests_<name>.yml"
+<value>:
+  quest-requirement:
+    - "quests1.yml"
+    - "quests2.yml"
+  description:
+    - ""
+    - ""
+  reward:
+    - ""
 ```
 
 ## 🛑 Important
