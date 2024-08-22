@@ -35,7 +35,7 @@ locked:
 
 # Level requirement format
 level-requirement [%level%]:
-  lore: "Unlock the next level by completing the required quests."
+  lore: ""
   requirement: "quests_<name>.yml"
 ```
 
